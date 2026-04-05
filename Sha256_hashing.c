@@ -1,3 +1,5 @@
+// надо скачать sha256.c, sha256.h!
+
 #include "sha256.h"
 #include <stdio.h>
 #include <string.h>
